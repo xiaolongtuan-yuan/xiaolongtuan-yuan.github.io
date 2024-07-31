@@ -10,4 +10,4 @@ redirect_from:
 
 我很荣幸能够在计算机学院（[School of CS](https://scs.bupt.edu.cn/)）网络智能研究中心（[NIRC](https://scs.bupt.edu.cn/xygk/jgsz/jxkyjg_sycopy/wlznyjzx.htm)）进行研究生阶段的学习。
 
-[Email](xiaolongtuan@bupt.edu.cn) / [Github](https://github.com/xiaolongtuan-yuan) / [Wechat](../images/wechat.jpeg) / [CSDN](https://blog.csdn.net/s2765504026?spm=1000.2115.3001.5343)
+[Email](mailto:xiaolongtuan@bupt.edu.cn) / [Github](https://github.com/xiaolongtuan-yuan) / [Wechat](../images/wechat.jpeg) / [CSDN](https://blog.csdn.net/s2765504026?spm=1000.2115.3001.5343)
